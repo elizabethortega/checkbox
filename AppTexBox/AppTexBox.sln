@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTexBox", "AppTexBox\AppTexBox.csproj", "{922669B3-3EAD-4FAC-9C12-12DF64ADF45E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922669B3-3EAD-4FAC-9C12-12DF64ADF45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922669B3-3EAD-4FAC-9C12-12DF64ADF45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922669B3-3EAD-4FAC-9C12-12DF64ADF45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922669B3-3EAD-4FAC-9C12-12DF64ADF45E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

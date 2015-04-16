@@ -1,0 +1,9 @@
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppChechBoxcalc\AppChechBoxcalc\bin\Debug\AppChechBoxcalc.exe.config
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppChechBoxcalc\AppChechBoxcalc\bin\Debug\AppChechBoxcalc.exe
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppChechBoxcalc\AppChechBoxcalc\bin\Debug\AppChechBoxcalc.pdb
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppChechBoxcalc\AppChechBoxcalc\obj\Debug\AppChechBoxcalc.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppChechBoxcalc\AppChechBoxcalc\obj\Debug\AppChechBoxcalc.Form1.resources
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppChechBoxcalc\AppChechBoxcalc\obj\Debug\AppChechBoxcalc.Properties.Resources.resources
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppChechBoxcalc\AppChechBoxcalc\obj\Debug\AppChechBoxcalc.csproj.GenerateResource.Cache
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppChechBoxcalc\AppChechBoxcalc\obj\Debug\AppChechBoxcalc.exe
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppChechBoxcalc\AppChechBoxcalc\obj\Debug\AppChechBoxcalc.pdb
